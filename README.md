@@ -3,6 +3,7 @@
 This app is a quick and simple demo of a Node.js API backend, using Express.js and MonogoDB, and RESTful routes.
 
 To run, download and npm install dependencies & run 'npm run dev'.
+You will also need a running MonogoDB db - I used mLab.
 
 Use Postman to send http requests, using key-values in the request body (select 'x-www-form-urlencoded').
 
